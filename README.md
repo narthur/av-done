@@ -1,9 +1,9 @@
 # av-done
 
-# 1/22/2020
+## 1/22/2020
 
 - Go through all recordings with flash media, deleting flash media
 
-# 1/23/2020
+## 1/23/2020
 
 - Set up Lighthouse CI with CircleCI to automate WordPress plugin performance testing
