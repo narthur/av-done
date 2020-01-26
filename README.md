@@ -8,3 +8,7 @@
 
 - Set up Lighthouse CI with CircleCI to automate WordPress plugin performance testing
 - av-wp-plugin: Ignore control, alt, etc keys in ajax list component filter box
+
+## 1/26/2020
+
+- Update weekly task summary emails for new time management process
