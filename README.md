@@ -12,3 +12,7 @@
 ## 1/26/2020
 
 - Update weekly task summary emails for new time management process
+
+## 1/28/2020
+
+- Email Trond to let him know we're working on an RFP
