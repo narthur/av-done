@@ -16,3 +16,4 @@
 ## 1/28/2020
 
 - Email Trond to let him know we're working on an RFP
+- Email Ki about having a conversation
