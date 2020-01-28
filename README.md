@@ -17,3 +17,5 @@
 
 - Email Trond to let him know we're working on an RFP
 - Email Ki about having a conversation
+- Figure out query string issue with new search page
+- Add tabbed interface to search page
