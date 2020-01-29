@@ -25,4 +25,4 @@
 - av-wp-plugin: Complete basic search page
 - av-wp-plugin: Add logout page
 - av-wp-plugin: Cross-link login and logout pages
-- Contact Ki
+- Meet with Ki
