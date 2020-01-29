@@ -19,3 +19,7 @@
 - Email Ki about having a conversation
 - Figure out query string issue with new search page
 - Add tabbed interface to search page
+
+## 1/29/2020
+
+- Complete basic search page
