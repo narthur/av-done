@@ -6,7 +6,7 @@
 
 ## 1/23/2020
 
-- Set up Lighthouse CI with CircleCI to automate WordPress plugin performance testing
+- av-wp-plugin: Set up Lighthouse CI with CircleCI to automate WordPress plugin performance testing
 - av-wp-plugin: Ignore control, alt, etc keys in ajax list component filter box
 
 ## 1/26/2020
@@ -17,8 +17,8 @@
 
 - Email Trond to let him know we're working on an RFP
 - Email Ki about having a conversation
-- Figure out query string issue with new search page
-- Add tabbed interface to search page
+- av-wp-plugin: Figure out query string issue with new search page
+- av-wp-plugin: Add tabbed interface to search page
 
 ## 1/29/2020
 
