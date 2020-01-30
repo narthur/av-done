@@ -26,3 +26,8 @@
 - av-wp-plugin: Add logout page
 - av-wp-plugin: Cross-link login and logout pages
 - Meet with Ki
+
+## 1/30/2020
+
+- Email info on contractor search to Trond
+- av-wp-plugin: Build basic search component
