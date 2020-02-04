@@ -35,3 +35,4 @@
 ## 2/4/2020
 
 - Update Nginx config for mySimpleAds to use Acme.sh SSL certs
+- Deploy Ki's Elasticsearch SSL fix to Audioverse.org
