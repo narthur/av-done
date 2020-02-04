@@ -31,3 +31,7 @@
 
 - Email info on contractor search to Trond
 - av-wp-plugin: Build basic search component
+
+## 2/4/2020
+
+- Update Nginx config for mySimpleAds to use Acme.sh SSL certs
