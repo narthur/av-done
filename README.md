@@ -36,3 +36,7 @@
 
 - Update Nginx config for mySimpleAds to use Acme.sh SSL certs
 - Deploy Ki's Elasticsearch SSL fix to Audioverse.org
+
+## 2/10/2020
+
+- Push two recordings through media pipeline
