@@ -40,3 +40,7 @@
 ## 2/10/2020
 
 - Push two recordings through media pipeline
+
+## 2/12/2020
+
+- Add focus percentages to summary emails
