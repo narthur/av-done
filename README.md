@@ -44,3 +44,7 @@
 ## 2/12/2020
 
 - Add focus percentages to summary emails
+
+## 2/13/2020
+
+- Help Al resolve audio encoding issue
