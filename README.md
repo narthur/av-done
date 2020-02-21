@@ -48,3 +48,7 @@
 ## 2/13/2020
 
 - Help Al resolve audio encoding issue
+
+## 2/21/2020
+
+- Work on compiling a list of react developer candidates
