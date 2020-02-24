@@ -52,3 +52,7 @@
 ## 2/21/2020
 
 - Work on compiling a list of react developer candidates
+
+## 2/24/2020
+
+- Installed software needed to test React Native apps
