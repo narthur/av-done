@@ -56,3 +56,7 @@
 ## 2/24/2020
 
 - Installed software needed to test React Native apps
+
+## 2/25/2020
+
+- Watch crash course video on React Native
