@@ -60,3 +60,7 @@
 ## 2/25/2020
 
 - Watch crash course video on React Native
+
+## 2/26/2020
+
+- Send developer updated API key
