@@ -1,5 +1,7 @@
 # av-done
 
+List of tasks completed
+
 ## 1/22/2020
 
 - Go through all recordings with flash media, deleting flash media
