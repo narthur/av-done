@@ -70,3 +70,4 @@ List of tasks completed
 ## 2/28/2020
 
 - Set up test Firebase project for working on mobile app locally
+- Set up local development environment for mobile app
