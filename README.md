@@ -66,3 +66,7 @@ List of tasks completed
 ## 2/26/2020
 
 - Send developer updated API key
+
+## 2/28/2020
+
+- Set up test Firebase project for working on mobile app locally
