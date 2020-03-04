@@ -1,6 +1,6 @@
 # av-done
 
-List of tasks completed
+List of tasks completed. Dates may not be precisely accurate.
 
 ## 1/22/2020
 
@@ -71,3 +71,8 @@ List of tasks completed
 
 - Set up test Firebase project for working on mobile app locally
 - Set up local development environment for mobile app
+
+## 3/3/2020
+
+- Draft RFP for talent agency
+- Send draft to Al for editing and approval
