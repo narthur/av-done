@@ -76,3 +76,13 @@ List of tasks completed. Dates may not be precisely accurate.
 
 - Draft RFP for talent agency
 - Send draft to Al for editing and approval
+
+## 3/4/2020
+
+- Update TheArk notification settings
+- Update domain A records with new Siteground IP address
+- Turn off auto renew on avadvance.org domain
+- Email Henry for help with Journeys Unscripted styling issue
+- Isolate problematic plugin for Journeys Unscripted
+- Learn how to SSH into a Siteground staging copy
+- Email user for more details regarding issue playing sermons on car stereo
