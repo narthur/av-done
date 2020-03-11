@@ -87,6 +87,11 @@ List of tasks completed. Dates may not be precisely accurate.
 - Learn how to SSH into a Siteground staging copy
 - Email user for more details regarding issue playing sermons on car stereo
 
+## 3/5/2020
+
+- Make CircleCI run audioverse-mobile test suite
+- Commit updated developer documentation to audioverse-mobile readme file
+
 ## 3/9/2020
 
 - Update API access token for audioverse-mobile local dev
