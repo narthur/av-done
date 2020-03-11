@@ -1,6 +1,6 @@
 # av-done
 
-List of tasks completed. Dates may not be precisely accurate.
+List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
 ## 3/11/2020
 
