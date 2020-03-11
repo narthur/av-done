@@ -2,6 +2,10 @@
 
 List of tasks completed. Dates may not be precisely accurate.
 
+## 3/11/2020
+
+- Switch av-done to reverse chronological order
+
 ## 3/10/2020
 
 - Built out mobile navigation prototype for admin client in Sketch
