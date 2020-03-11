@@ -87,6 +87,13 @@ List of tasks completed. Dates may not be precisely accurate.
 - Learn how to SSH into a Siteground staging copy
 - Email user for more details regarding issue playing sermons on car stereo
 
+## 3/9/2020
+
+- Update API access token for audioverse-mobile local dev
+- Configure audioverse-mobile Docker container to restart automatically on crash
+- Explicitly set app media buffering indicator color to black
+- Document how to run the audioverse-mobile test suite
+
 ## 3/10/2020
 
 - Built out mobile navigation prototype for admin client in Sketch
