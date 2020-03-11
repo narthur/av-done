@@ -86,3 +86,8 @@ List of tasks completed. Dates may not be precisely accurate.
 - Isolate problematic plugin for Journeys Unscripted
 - Learn how to SSH into a Siteground staging copy
 - Email user for more details regarding issue playing sermons on car stereo
+
+## 3/10/2020
+
+- Built out mobile navigation prototype for admin client in Sketch
+- Shared prototype with Al via Sketch Cloud
