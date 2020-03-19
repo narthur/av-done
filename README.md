@@ -2,9 +2,23 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 3/17/2020
+
+- Develop compression lambda budget range and rationale
+- Revise request for proposal for compression lambda project
+- Fix Journeys Unscripted theme issue
+- Explore using AirTable and/or Monday.com as a CRM
+- Watch Lynda.com course on working with legacy code
+
+## 3/16/2020
+
+- Prepare first draft of proposal for compression lambda project
+- Send first draft to Al
+
 ## 3/11/2020
 
 - Switch av-done to reverse chronological order
+- Capture public site usage trends for strategic planning meeting
 
 ## 3/10/2020
 
