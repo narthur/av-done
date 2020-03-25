@@ -2,6 +2,16 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 3/24/2020
+
+- Review candidate resumes
+- Complete 401k account setup
+
+## 3/23/2020
+
+- Make AudioVerse mobile loading indicator use consistent color between platforms
+- Build Wakatime to Beeminder integration so I can beemind time spent on development in specific projects
+
 ## 3/17/2020
 
 - Develop compression lambda budget range and rationale
