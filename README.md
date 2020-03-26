@@ -2,6 +2,13 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 3/25/2020
+
+- WP plugin: Fix placeholder block error
+- Follow up with hiring and contracting leads
+- Beemind WordPress plugin development time
+- Complete Lynda.com course on technical interviewing
+
 ## 3/24/2020
 
 - Review candidate resumes
