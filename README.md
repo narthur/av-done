@@ -2,6 +2,14 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 3/30/2020
+
+- Meet with DeepVision
+
+## 3/26/2020
+
+- WP plugin: Add caching to API wrapper
+
 ## 3/25/2020
 
 - WP plugin: Fix placeholder block error
