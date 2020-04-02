@@ -2,6 +2,11 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 3/31/2020
+
+- Respond to employment candidate questions
+- Resolve video encoding issue
+
 ## 3/30/2020
 
 - Meet with DeepVision
