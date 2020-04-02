@@ -2,6 +2,11 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 4/1/2020
+
+- Email DeepVision with some more questions
+- Add automated testing and coverage reporting to encoder codebase
+
 ## 3/31/2020
 
 - Respond to employment candidate questions
