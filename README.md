@@ -2,6 +2,14 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 4/6/2020
+
+- Give DeepVision access to admin dashboard
+
+## 4/2/2020
+
+- Set up recurring meeting with Ki
+
 ## 4/1/2020
 
 - Email DeepVision with some more questions
