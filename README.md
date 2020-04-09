@@ -2,6 +2,10 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 4/8/2020
+
+- Research GitHub pricing
+
 ## 4/6/2020
 
 - Give DeepVision access to admin dashboard
