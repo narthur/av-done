@@ -12,6 +12,12 @@ List of tasks completed. List is not exhaustive. Dates may not be precisely accu
 
 - Research GitHub pricing
 
+## 4/7/2020
+
+- Set up personal stochastic time tracking system
+- Prepare explanation of GitHub workflow for Al
+- Give DeepVision access to existing dashboard
+
 ## 4/6/2020
 
 - Give DeepVision access to admin dashboard
