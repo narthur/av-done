@@ -2,6 +2,12 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 4/9/2020
+
+- Prepare for meeting with Ki
+- Ask DeepVision for code samples
+- Prototype dashboard encoding job UI
+
 ## 4/8/2020
 
 - Research GitHub pricing
