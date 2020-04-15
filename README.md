@@ -2,6 +2,11 @@
 
 List of tasks completed. List is not exhaustive. Dates may not be precisely accurate.
 
+## 4/13/2020
+
+- Review DeepVision sample code
+- Review DeepVision contract
+
 ## 4/9/2020
 
 - Prepare for meeting with Ki
